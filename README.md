@@ -8,7 +8,7 @@ I'm a full-stack Software Engineer experienced in JavaScript, Ruby on Rails, Rea
 ### Currently Working On...
  - a homepage for my meme-themed newsletter over at [memeoftheweek.net](https://memeoftheweek.net)
  - a collaborative story-telling workspace where users can write together
- - refining my Harry Styles fan page (will work on this until he notices me!)
+ - refining my [Harry Styles fan page](https://www.loom.com/share/556b2de35ec14ed5ab940b342283143c) (will work on this until he notices me!)
 
 When I'm not building web applications, you can find me in Brooklyn playing volleyball or pickleball, solving crossword puzzles, or planning my next visit to a National Park. Have a project in mind? Let's connect!
 
