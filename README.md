@@ -12,8 +12,8 @@ I'm a full-stack Software Engineer experienced in JavaScript, Ruby on Rails, Rea
 When I'm not building web applications, you can find me in Brooklyn playing volleyball or pickleball, solving crossword puzzles, or planning my next visit to a National Park. Have a project in mind? Let's connect!
 
 ### Connect With Me
- * Check out my work on [Medium](https://medium.com/@leighryffel)
  * Connect with me on [LinkedIn](https://www.linkedin.com/in/leigh-ryffel/)
+ * Check out my work on [Medium](https://medium.com/@leighryffel)
 
 <!--
 **leighryffel/leighryffel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
