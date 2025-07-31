@@ -9,7 +9,7 @@ I'm a full-stack Software Engineer experienced in JavaScript, Ruby on Rails, Rea
  - a homepage for my meme-themed newsletter
  - refining my [Harry Styles fan page](https://www.loom.com/share/556b2de35ec14ed5ab940b342283143c) (will work on this until he notices me!)
 
-When I'm not building web applications, you can find me in Brooklyn playing volleyball or pickleball, solving crossword puzzles, or planning my next visit to a National Park. Have a project in mind? Let's connect!
+When I'm not building web applications, you can find me in NYC playing volleyball or pickleball, solving crossword puzzles, or planning my next visit to a National Park. Have a project in mind? Let's connect!
 
 ### Connect With Me
  * Connect with me on [LinkedIn](https://www.linkedin.com/in/leigh-ryffel/)
