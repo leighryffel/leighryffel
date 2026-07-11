@@ -1,6 +1,6 @@
 ## Leigh Ryffel
 
-🔬 Former Science Teacher 🏐 Volleyballer 🌳 Hiker 🤔 Crossword Puzzle Constructor 🏓 Pickleball Enthusiast
+🔬 Former Science Teacher 🏐 Volleyballer 🌳 Parks Enthusiast 🤔 Crossword Puzzle Constructor 🏓 Pickleball Enthusiast
 
 ### About Me
 I'm a full-stack Software Engineer who uses Typescript, JavaScript, Ruby on Rails, React.js, HTML, CSS, and PostgreSQL. My career has taken me from teaching high school science to developing computer science curriculum, with a passion for creating products that engage and delight users. I'm excited about work that promotes equity in education and supports teachers and students. I'd love to connect with people and organizations who are similarly committed to advancing outcomes for women and minorities in tech.
